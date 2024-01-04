@@ -1,6 +1,7 @@
-import math
-import random
-import requests
+import math # Built in module
+import random # Built in module
+
+import requests # External Module
 
 square = math.sqrt(9)
 
