@@ -22,8 +22,8 @@
 | l | Bitwise OR | Left to Right |
 | ==, !=, >, >=, <=, is, is not, in, not in | Comparisons, Identity, Membership operators | Left to Right |
 | not | Logical NOT | Left to Right |
-| or | Logical OR | Left to Right |
 | and | Logical AND | Left to Right |
+| or | Logical OR | Left to Right |
 | =, +=, -=, *=, /= | Assignment Operator | Right to Left |
 
 ##
