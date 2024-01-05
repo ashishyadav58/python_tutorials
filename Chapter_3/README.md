@@ -9,7 +9,7 @@
 
 ### Operators Precedence & Associativity
 
-| Opearators |      |
+| Opearators | Description |
 | :-------- | :------- |
 | () | Parenthese|
 | ** | Exponent |
