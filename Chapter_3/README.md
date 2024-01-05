@@ -21,10 +21,10 @@
 | ^ | Bitwise XOR | Left to Right |
 | l | Bitwise OR | Left to Right |
 | ==, !=, >, >=, <=, is, is not, in, not in | Comparisons, Identity, Membership operators | Left to Right |
-| not | Logical NOT |
-| or | Logical OR |
-| and | Logical AND |
-| =, +=, -=, *=, /= | Assignment Operator |
+| not | Logical NOT | Left to Right |
+| or | Logical OR | Left to Right |
+| and | Logical AND | Left to Right |
+| =, +=, -=, *=, /= | Assignment Operator | Right to Left |
 
 ##
 
