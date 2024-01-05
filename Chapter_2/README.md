@@ -24,6 +24,14 @@ It's important to understand these concepts when writing Python code, as they fo
 
 
 ## Datatypes In Python
+
+'type()' is a function used to identify the datatype of variable.
+
+```bash
+a = 55
+print(type(a))
+```
+
 Python has a wide range of built-in data types that can be used to store and manipulate data.
 
 1. Int: Stores integers (whole numbers).
