@@ -28,7 +28,7 @@ A = 30
 
 So 'a' and 'A' is not same because the variable name is Case Sensitive.
 
-## 
+### Logical Operators
 
 'and' - Returns true when both are true.
 
