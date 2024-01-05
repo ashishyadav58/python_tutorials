@@ -10,7 +10,7 @@
 ### Operators Precedence & Associativity
 
 | Opearators | Description | associativity |
-| :-------- | :------- |
+| :-------- | :------- | :------- |
 | () | Parenthese| Left to Right |
 | ** | Exponent | Right to Left |
 | +X, -X, ~X | Unary Plus, Unary Minus, Bitwise Not | Right to Left |
