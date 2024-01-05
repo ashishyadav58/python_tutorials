@@ -1,0 +1,36 @@
+
+# Operators In Python
+### Following are some common operators in python.
+
+1. Arithmetic Operators: +, -, *, /, %, etc.
+2. Assigment Operators: =, +=, -=, etc.
+3. Comparisor Operators: ==, >, <, >=, <=, !=, etc.
+4. Logical Operators: and, or, not
+
+##
+
+-> If you divide any variable value by 
+
+```bash
+a = 33
+a /= 3
+
+print(a)
+```
+
+### Python is a Case sensitive
+
+```bash
+a = 34
+A = 30
+```
+
+So 'a' and 'A' is not same because the variable name is Case Sensitive.
+
+## 
+
+'and' - Returns true when both are true.
+
+'or' - Returns true when one of us is true.
+
+'not' - Returns the opposite like if variable value is true then it returns false.
