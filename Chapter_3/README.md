@@ -17,6 +17,7 @@ a /= 3
 
 print(a)
 ```
+Result: 11.0 (result in float)
 
 ### Python is a Case sensitive
 
