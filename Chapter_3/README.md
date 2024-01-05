@@ -9,18 +9,18 @@
 
 ### Operators Precedence & Associativity
 
-| Opearators | Description |
+| Opearators | Description | associativity |
 | :-------- | :------- |
-| () | Parenthese|
-| ** | Exponent |
-| +X, -X, ~X | Unary Plus, Unary Minus, Bitwise Not |
-| *, /, //, % | Multiplication, Division, Floor Division, Modulus
-| +, - | Addition, Subtraction |
-| <<, >> | Bitwise shift operators |
-| & | Bitwise AND |
-| ^ | Bitwise XOR |
-| l | Bitwise OR |
-| ==, !=, >, >=, <=, is, is not, in, not in | Comparisons, Identity, Membership operators |
+| () | Parenthese| Left to Right |
+| ** | Exponent | Right to Left |
+| +X, -X, ~X | Unary Plus, Unary Minus, Bitwise Not | Right to Left |
+| *, /, //, % | Multiplication, Division, Floor Division, Modulus| Left to Right |
+| +, - | Addition, Subtraction | Left to Right |
+| <<, >> | Bitwise shift operators | Left to Right |
+| & | Bitwise AND | Left to Right |
+| ^ | Bitwise XOR | Left to Right |
+| l | Bitwise OR | Left to Right |
+| ==, !=, >, >=, <=, is, is not, in, not in | Comparisons, Identity, Membership operators | Left to Right |
 | not | Logical NOT |
 | or | Logical OR |
 | and | Logical AND |
