@@ -36,6 +36,7 @@ a /= 3
 
 print(a)
 ```
+Result: 11.0 (result in float)
 
 ### Python is a Case sensitive
 
@@ -46,12 +47,15 @@ A = 30
 
 So 'a' and 'A' is not same because the variable name is Case Sensitive.
 
-## 
+### Logical Operators
 
 'and' - Returns true when both are true.
 
 'or' - Returns true when one of us is true.
 
 'not' - Returns the opposite like if variable value is true then it returns false.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 8547549aad137b23488ab2f76a7516614aca73ce
