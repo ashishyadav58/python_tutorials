@@ -9,22 +9,22 @@
 
 ### Operators Precedence & Associativity
 
-| Opearators |      |
-| :-------- | :------- |
-| () | Parenthese|
-| ** | Exponent |
-| +X, -X, ~X | Unary Plus, Unary Minus, Bitwise Not |
-| *, /, //, % | Multiplication, Division, Floor Division, Modulus
-| +, - | Addition, Subtraction |
-| <<, >> | Bitwise shift operators |
-| & | Bitwise AND |
-| ^ | Bitwise XOR |
-| l | Bitwise OR |
-| ==, !=, >, >=, <=, is, is not, in, not in | Comparisons, Identity, Membership operators |
-| not | Logical NOT |
-| or | Logical OR |
-| and | Logical AND |
-| =, +=, -=, *=, /= | Assignment Operator |
+| Opearators | Description | associativity |
+| :-------- | :------- | :------- |
+| () | Parenthese| Left to Right |
+| ** | Exponent | Right to Left |
+| +X, -X, ~X | Unary Plus, Unary Minus, Bitwise Not | Right to Left |
+| *, /, //, % | Multiplication, Division, Floor Division, Modulus| Left to Right |
+| +, - | Addition, Subtraction | Left to Right |
+| <<, >> | Bitwise shift operators | Left to Right |
+| & | Bitwise AND | Left to Right |
+| ^ | Bitwise XOR | Left to Right |
+| l | Bitwise OR | Left to Right |
+| ==, !=, >, >=, <=, is, is not, in, not in | Comparisons, Identity, Membership operators | Left to Right |
+| not | Logical NOT | Left to Right |
+| and | Logical AND | Left to Right |
+| or | Logical OR | Left to Right |
+| =, +=, -=, *=, /= | Assignment Operator | Right to Left |
 
 ##
 
@@ -54,8 +54,3 @@ So 'a' and 'A' is not same because the variable name is Case Sensitive.
 'or' - Returns true when one of us is true.
 
 'not' - Returns the opposite like if variable value is true then it returns false.
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 8547549aad137b23488ab2f76a7516614aca73ce
