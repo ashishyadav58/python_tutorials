@@ -23,7 +23,7 @@ c = a + b
 print(c)
 ```
 
-##### Output: 9.6
+##### Output: 9.6 (result in float)
 
 #### Example of Explicit Typecasting:
 
