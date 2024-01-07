@@ -1,5 +1,5 @@
-# name = input("What is your name? ")
-# print("Hello, " + name)
+name = input("What is your name? ")
+print("Hello, " + name)
 
 
 num1 = float(input("Enter first number: "))
