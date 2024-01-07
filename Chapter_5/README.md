@@ -27,7 +27,7 @@ print("Your Age:", user_age")
 
 ### Input in Real-Life Examples:
 
-Let's make a simple two number addtion programme
+Let's make a simple two number addtion program
 
 ```bash
 num1 = float(input("Enter first number: "))
