@@ -23,6 +23,8 @@ c = a + b
 print(c)
 ```
 
+##### Output: 9.6 (result in float)
+
 #### Example of Explicit Typecasting:
 
 ```bash
@@ -36,3 +38,5 @@ c = int(a) + b
 
 print(c)
 ```
+
+##### Output: 9
