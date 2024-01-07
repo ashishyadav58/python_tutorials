@@ -16,3 +16,22 @@ Hello, John
 ```
 
 That's a basic example of the input function in action! It's a powerful tool for creating interactive programs that can accept and respond to user input. You can also use it to accept input of different data types, like numbers or booleans.
+
+### Handling Different Data Types:
+Let's see an example in which we are taking input of user age in number and converting inputed data type from string to integer.
+
+```bash
+user_age = int(input("Enter your age: "))
+print("Your Age:", user_age")
+```
+
+### Input in Real-Life Examples:
+
+Let's make a simple two number addtion programme
+
+```bash
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+result = num1 + num2
+print("Result:", result)
+```
