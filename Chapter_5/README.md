@@ -35,5 +35,3 @@ num2 = float(input("Enter second number: "))
 result = num1 + num2
 print("Result:", result)
 ```
-
-#### -> Write a program to Make a Simple Calculator in python.
