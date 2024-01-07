@@ -36,4 +36,4 @@ result = num1 + num2
 print("Result:", result)
 ```
 
-#### Write a program to Make a Simple Calculator in python.
+#### -> Write a program to Make a Simple Calculator in python.
